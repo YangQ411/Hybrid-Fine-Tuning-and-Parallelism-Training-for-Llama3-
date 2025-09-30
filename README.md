@@ -124,6 +124,20 @@ We evaluated the impact of **precision formats** (FP32, FP16, BF16) and **parall
   - **FSDP** enabled full model sharding but with higher communication cost  
   - Recommendation: DDP is more efficient for 4–8 GPU setups, while FSDP is beneficial for larger clusters  
 
+#### 🔹 GPU Scaling (DDP)
+<p align="center">
+  <img src="results/time_gpu_ddp.png" width="45%"/>
+  <img src="results/epoch_time_gpu_ddp.png" width="45%"/>
+  <img src="results/throughput_gpu_ddp.png" width="45%"/>
+</p>
+
+#### 🔹 GPU Scaling (FSDP)
+<p align="center">
+  <img src="results/time_gpu_fsdp.png" width="45%"/>
+  <img src="results/epoch_time_gpu_fsdp.png" width="45%"/>
+  <img src="results/throughput_gpu_fsdp.png" width="45%"/>
+</p>
+
 #### 🔹 DDP V.S. FSDP
 <p align="center">
   <img src="results/DDP_VS_FSDP.png" width="45%"/>
