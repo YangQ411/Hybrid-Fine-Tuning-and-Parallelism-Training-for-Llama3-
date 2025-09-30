@@ -129,6 +129,8 @@ We evaluated the impact of **precision formats** (FP32, FP16, BF16) and **parall
   <img src="results/time_gpu_ddp.png" width="45%"/>
   <img src="results/epoch_time_gpu_ddp.png" width="45%"/>
   <img src="results/throughput_gpu_ddp.png" width="45%"/>
+  <img src="results/memory_gpu_ddp.png" width="45%"/>
+</p>
 </p>
 
 #### 🔹 GPU Scaling (FSDP)
@@ -136,6 +138,7 @@ We evaluated the impact of **precision formats** (FP32, FP16, BF16) and **parall
   <img src="results/time_gpu_fsdp.png" width="45%"/>
   <img src="results/epoch_time_gpu_fsdp.png" width="45%"/>
   <img src="results/throughput_gpu_fsdp.png" width="45%"/>
+  <img src="results/memory_gpu_fsdp.png" width="45%"/>
 </p>
 
 #### 🔹 DDP V.S. FSDP
