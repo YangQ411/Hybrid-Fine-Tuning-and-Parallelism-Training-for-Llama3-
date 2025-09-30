@@ -16,6 +16,7 @@ We investigate **efficient fine-tuning strategies** for LLMs:
 ---
 
 ## 📂 Repository Structure
+```text
 │
 ├── src/ # Source code
 │ ├── config.py # Configuration (model/dataset/training settings)
@@ -40,6 +41,7 @@ We investigate **efficient fine-tuning strategies** for LLMs:
 ├── requirements.txt # Python dependencies
 ├── README.md # Project overview and usage instructions
 └── LICENSE # Open-source license (MIT/Apache)
+```
 
 ---
 
