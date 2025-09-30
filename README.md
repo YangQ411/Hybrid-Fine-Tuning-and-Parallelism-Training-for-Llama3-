@@ -152,3 +152,6 @@ We evaluated the impact of **precision formats** (FP32, FP16, BF16) and **parall
 ---
 
 For more detailed results and analysis, please refer to the [📄 Project Report (PDF)](docs/Project_Report.pdf).
+
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
