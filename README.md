@@ -1,4 +1,4 @@
-# Hybrid Fine-Tuning and Parallelism Training for Llama3
+# Mixed Precision fine-tuning and Parallel Training for LLM  
 
 This project investigates efficient fine-tuning and parallel optimization strategies for large language models (LLMs). We systematically explore the impact of precision formats (FP32, FP16, BF16) and distributed training methods (DDP, FSDP) on fine-tuning performance, providing practical guidance for improving efficiency and scalability in real-world LLM applications.
 
@@ -12,6 +12,7 @@ We investigate **efficient fine-tuning strategies** for LLMs:
 - **Precision Study**: Comparing FP32, FP16, and BF16 performance  
 - **Parallel Training**: Evaluating DDP and FSDP scalability  
 - **Gradio UI**: Deploying a chatbot interface mimicking ChatGPT  
+- **Training GPU**: NVIDIA H100 80GB GPU  
 
 ---
 
