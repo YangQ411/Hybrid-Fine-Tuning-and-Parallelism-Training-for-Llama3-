@@ -39,7 +39,6 @@ We investigate **efficient fine-tuning strategies** for LLMs:
 │ ├── memory_usage.png
 │ └── benchmarks.csv
 │
-├── requirements.txt # Python dependencies
 ├── README.md # Project overview and usage instructions
 └── LICENSE # Open-source license (MIT/Apache)
 ```
@@ -53,7 +52,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/YOUR_USERNAME/llama3-hybrid-parallelism.git
 cd llama3-hybrid-parallelism
-pip install -r requirements.txt
 ```
 
 ### 2. Authentication & Dataset Access
