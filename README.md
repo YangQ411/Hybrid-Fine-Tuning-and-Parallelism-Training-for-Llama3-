@@ -50,7 +50,7 @@ We investigate **efficient fine-tuning strategies** for LLMs:
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/llama3-hybrid-parallelism.git
+git clone https://github.com/YangQ411/Hybrid-Fine-Tuning-and-Parallelism-Training-for-Llama3-.git
 cd llama3-hybrid-parallelism
 ```
 
